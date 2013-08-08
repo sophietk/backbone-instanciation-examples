@@ -1,7 +1,7 @@
 {
-    "name": "backbone-app",
+    "name": "backbone-skeleton-app",
     "version": "0.0.1",
-    "author": "PMU Sophie",
+    "author": "sophietk",
     "dependencies": {
         "express": "3.x"
     },
